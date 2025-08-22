@@ -11,7 +11,7 @@ Resultados del análisis
 
 ## Arquitectura implementada
 
-![Logo]([mi_imagen.png](https://github.com/Ingenieco/prueba_fm_vc/blob/main/arquitectura_prueba_fm.png)
+[Logo]([mi_imagen.png](https://github.com/Ingenieco/prueba_fm_vc/blob/main/arquitectura_prueba_fm.png))
 
 ## Autores
 
