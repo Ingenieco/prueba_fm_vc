@@ -9,7 +9,7 @@ Resultados del análisis
 
 ## Tabla de contenido
 
- - [Script ETL](https://github.com/Ingenieco/crc/blob/main/Respuesta_prueba.ipynb)
+ - [Script ETL](https://github.com/Ingenieco/prueba_fm_vc/blob/main/prueba_DyA.ipynb)
  - [Tablero de control](https://app.powerbi.com/view?r=eyJrIjoiYzQwYmU1ZDYtZjU2OC00MDkwLWJlNjQtNDU4YmFkMmVkN2EwIiwidCI6ImQ1MTM4OGVmLTZhYjAtNDM2My05Zjk0LWQ1NjY0NGE0NTk3MCIsImMiOjR9)
 
 ## Arquitectura implementada
