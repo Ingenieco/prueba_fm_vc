@@ -1,4 +1,7 @@
-# Análisis Data y Analítica Fondo Mujer Libre y Productiva
+# Fondo Mujer Libre y Productiva
+# Análisis de datos a nivel municipal de la distribución de ingresos por impuesto predial per cápita y agregado - 
+# Data y Analítica - Carlos Gutiérrez
+
 
 Resultados del análisis
 
