@@ -9,8 +9,13 @@ Resultados del análisis
 
 ## Tabla de contenido
 
+<!--
  - [Script ETL](https://github.com/Ingenieco/prueba_fm_vc/blob/main/prueba_DyA.ipynb)
  - [Tablero de control](https://app.powerbi.com/view?r=eyJrIjoiYzQwYmU1ZDYtZjU2OC00MDkwLWJlNjQtNDU4YmFkMmVkN2EwIiwidCI6ImQ1MTM4OGVmLTZhYjAtNDM2My05Zjk0LWQ1NjY0NGE0NTk3MCIsImMiOjR9)
+-->
+
+- <a href="https://github.com/Ingenieco/prueba_fm_vc/blob/main/prueba_DyA.ipynb" target="_blank">Script ETL</a>  
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiYzQwYmU1ZDYtZjU2OC00MDkwLWJlNjQtNDU4YmFkMmVkN2EwIiwidCI6ImQ1MTM4OGVmLTZhYjAtNDM2My05Zjk0LWQ1NjY0NGE0NTk3MCIsImMiOjR9" target="_blank">Tablero de control</a>
 
 ## Arquitectura implementada
 
